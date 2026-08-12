@@ -1,178 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sahil Balyan</h1>
+# Hi, I'm Sahil 👋
 
-<h3 align="center">
-Java Backend Developer | Spring Boot Enthusiast | Problem Solver
-</h3>
+Java Backend Developer from India
 
-<p align="center">
-Building scalable backend applications, secure authentication systems,
-and AI-powered tools while continuously improving my software engineering skills.
-</p>
+## About Me
 
----
+- 🎓 MCA Graduate
+- ☕ Spring Boot Developer
+- 🔐 Interested in Authentication & Security
+- 🐧 Linux Enthusiast
+- 🏋️ Daily Gym Goer
+- 🧩 550+ LeetCode Problems Solved
 
-## 🚀 About Me
-
-🎓 MCA Graduate from Maharshi Dayanand University, Rohtak
-
-💻 Backend Developer specializing in:
-
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- MySQL
-- JPA / Hibernate
-
-🧠 Solved 550+ LeetCode Problems
-
-🌱 Currently Learning
-
-- Advanced Spring Ecosystem
-- System Design
-- React
-- Cloud Technologies
-
-🎯 Goal
-
-Build production-ready applications and grow into a Software Engineer role focused on backend development and distributed systems.
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
+Java • JavaScript • SQL
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+Spring Boot • Spring Security • REST APIs • JPA • Hibernate
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+React • HTML • CSS
 
-### Tools & Platforms
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
-</p>
+MySQL • MongoDB
 
----
+### Tools
 
-## 📌 Featured Projects
+Git • GitHub • Linux • Maven • IntelliJ IDEA
 
-### 🔐 User Management System
+## Featured Projects
 
-Production-style authentication and authorization platform built with Spring Boot.
+### AuraCV
+AI-powered resume analysis platform using Spring Boot, React, Gemini AI, MySQL, JWT and Adzuna API.
 
-**Features**
+### User Management System
+Authentication and authorization platform built with Spring Security and JWT.
 
-- JWT Authentication
-- Role Based Access Control
-- Spring Security
-- Secure Password Encryption
-- RESTful APIs
-- MySQL Integration
+### Maze Runner
+JavaFX application visualizing BFS, DFS and Dijkstra algorithms.
 
-**Tech Stack**
+## Connect With Me
 
-Java • Spring Boot • Spring Security • MySQL • JWT
+LinkedIn: linkedin.com/in/8alyan
 
----
+LeetCode: leetcode.com/u/8alyan
 
-### 📄 AuraCV
-
-AI-powered Resume Analysis Platform.
-
-**Features**
-
-- Resume Upload (PDF)
-- ATS Score Generation
-- Resume Analysis
-- AI Suggestions
-- Job Recommendations
-- Google OAuth Login
-- JWT Authentication
-
-**Tech Stack**
-
-Java • Spring Boot • React • MySQL • Gemini AI • Adzuna API
-
----
-
-### 🧩 MazeRunner
-
-Algorithm Visualizer and Maze Generation Tool.
-
-**Features**
-
-- BFS Visualization
-- DFS Visualization
-- Dijkstra Visualization
-- Maze Generation
-- Algorithm Benchmarking
-
-**Tech Stack**
-
-Java • JavaFX • Maven
-
----
-
-## 🏆 Achievements
-
-🥇 National Gold Medalist in Drop Roball
-
-📚 550+ LeetCode Problems Solved
-
-💡 Strong foundation in
-
-- Data Structures
-- Algorithms
-- OOP
-- DBMS
-- Operating Systems
-- Computer Networks
-
----
-
-## 📈 Coding Profiles
-
-### LeetCode
-
-https://leetcode.com/
-
-### GitHub
-
-https://github.com/8alyan
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://github.com/8alyan">GitHub</a> •
-<a href="https://linkedin.com">LinkedIn</a> •
-<a href="mailto:yourmail@gmail.com">Email</a>
-</p>
-
----
-
-## 💭 Favorite Quote
-
-> First solve the problem. Then write the code.
->
-> — John Johnson
+GitHub: github.com/8alyan
