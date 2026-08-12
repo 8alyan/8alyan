@@ -1,28 +1,41 @@
-# Hi, I'm Sahil Balyan 👋
+<h1 align="center">Hi 👋, I'm Sahil Balyan</h1>
 
-### Java Backend Developer | Spring Boot Enthusiast | MCA Graduate
+<h3 align="center">
+Java Backend Developer | Spring Boot Enthusiast | Problem Solver
+</h3>
 
-I enjoy building backend systems, secure authentication flows, REST APIs, and full-stack applications using Java and Spring Boot.
-
-Currently focused on:
-- Spring Boot
-- Spring Security
-- REST APIs
-- Database Design
-- System Design Fundamentals
-- DSA & Competitive Programming
+<p align="center">
+Building scalable backend applications, secure authentication systems,
+and AI-powered tools while continuously improving my software engineering skills.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 MCA Graduate (M.D.U Rohtak)
-- 💻 Java Backend Developer
-- 🌱 Currently learning advanced backend architecture and system design
-- 🔐 Interested in Authentication & Security
-- 🐧 Linux User (Fedora KDE)
-- 🏋️ Gym Enthusiast
-- 🎯 Looking for Software Development opportunities
+🎓 MCA Graduate from Maharshi Dayanand University, Rohtak
+
+💻 Backend Developer specializing in:
+
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- MySQL
+- JPA / Hibernate
+
+🧠 Solved 550+ LeetCode Problems
+
+🌱 Currently Learning
+
+- Advanced Spring Ecosystem
+- System Design
+- React
+- Cloud Technologies
+
+🎯 Goal
+
+Build production-ready applications and grow into a Software Engineer role focused on backend development and distributed systems.
 
 ---
 
@@ -30,98 +43,136 @@ Currently focused on:
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎯 AuraCV
-AI-powered resume analyzer built using Spring Boot, React, MySQL, Gemini AI, and Adzuna API.
+### 🔐 User Management System
 
-**Highlights**
-- ATS Score Analysis
-- Resume Evaluation
+Production-style authentication and authorization platform built with Spring Boot.
+
+**Features**
+
 - JWT Authentication
-- Google OAuth2
-- Job Recommendations
-
----
-
-### 🧩 Maze Runner
-JavaFX application for visualizing graph path-finding algorithms.
-
-**Highlights**
-- BFS
-- DFS
-- Dijkstra
-- Algorithm Benchmarking
-- 1v1 Visualization Mode
-
----
-
-### 🛍 Roshni Creations
-Full-stack e-commerce platform built during a hackathon.
-
-**Highlights**
+- Role Based Access Control
 - Spring Security
-- MongoDB
-- Razorpay Integration
-- Seller Dashboard
-- Inventory Management
+- Secure Password Encryption
+- RESTful APIs
+- MySQL Integration
+
+**Tech Stack**
+
+Java • Spring Boot • Spring Security • MySQL • JWT
+
+---
+
+### 📄 AuraCV
+
+AI-powered Resume Analysis Platform.
+
+**Features**
+
+- Resume Upload (PDF)
+- ATS Score Generation
+- Resume Analysis
+- AI Suggestions
+- Job Recommendations
+- Google OAuth Login
+- JWT Authentication
+
+**Tech Stack**
+
+Java • Spring Boot • React • MySQL • Gemini AI • Adzuna API
+
+---
+
+### 🧩 MazeRunner
+
+Algorithm Visualizer and Maze Generation Tool.
+
+**Features**
+
+- BFS Visualization
+- DFS Visualization
+- Dijkstra Visualization
+- Maze Generation
+- Algorithm Benchmarking
+
+**Tech Stack**
+
+Java • JavaFX • Maven
+
+---
+
+## 🏆 Achievements
+
+🥇 National Gold Medalist in Drop Roball
+
+📚 550+ LeetCode Problems Solved
+
+💡 Strong foundation in
+
+- Data Structures
+- Algorithms
+- OOP
+- DBMS
+- Operating Systems
+- Computer Networks
 
 ---
 
 ## 📈 Coding Profiles
 
-- 💻 LeetCode: [Your LeetCode Link]
-- 🏆 Codeforces: [Your Codeforces Link]
-- 🌐 LinkedIn: [Your LinkedIn Link]
+### LeetCode
+
+https://leetcode.com/
+
+### GitHub
+
+https://github.com/8alyan
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8alyan&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8alyan&layout=compact)
-
----
-
-## 🎯 Current Goals
-
-- Master Spring Security
-- Learn System Design
-- Build Production-Ready Backend Applications
-- Contribute to Open Source
-- Land a Software Developer Role
+<p>
+<a href="https://github.com/8alyan">GitHub</a> •
+<a href="https://linkedin.com">LinkedIn</a> •
+<a href="mailto:yourmail@gmail.com">Email</a>
+</p>
 
 ---
 
-### Thanks for visiting! ⭐
--->
+## 💭 Favorite Quote
+
+> First solve the problem. Then write the code.
+>
+> — John Johnson
