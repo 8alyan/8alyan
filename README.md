@@ -113,14 +113,6 @@ JavaFX visualization project.
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 National Gold Medalist in Drop Roball
-- 🧠 550+ LeetCode Problems Solved
-- 💻 Built multiple full-stack applications using Spring Boot
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/8alyan/
